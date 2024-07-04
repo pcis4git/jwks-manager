@@ -1,1 +1,1 @@
-# jwks-manager
+# secret-mgr
